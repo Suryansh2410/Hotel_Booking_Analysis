@@ -1,1 +1,2 @@
 # Hotel_Booking_Analysis
+Hotel bookings data analysis using Python involves conducting exploratory data analysis (EDA) with libraries like Pandas and Seaborn to uncover trends in bookings for resorts and city hotels, including cancellations and customer demographics. This process helps identify key factors affecting occupancy rates and enhances strategies for improving guest satisfaction and revenue across different types of accommodations.
